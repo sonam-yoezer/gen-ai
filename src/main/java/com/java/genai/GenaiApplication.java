@@ -1,13 +1,13 @@
-package com.java.crudoperation;
+package com.java.genai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudoperationApplication {
+public class GenaiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudoperationApplication.class, args);
+		SpringApplication.run(GenaiApplication.class, args);
 	}
 
 }
